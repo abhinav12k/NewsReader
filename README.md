@@ -9,5 +9,5 @@ A news app to display all tech related news.All the news arcticles are picked fr
 * In android studio goto file
 * Select new > Import from version control
 * Choose git / github (git option recommanded )
-* Paste url to repository i.e https://github.com/abhinav78910/TicTacToe.git
+* Paste url to repository i.e https://github.com/abhinav78910/NewsReader.git
 * Click on clone.
